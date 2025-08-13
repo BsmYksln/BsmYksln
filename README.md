@@ -1,5 +1,5 @@
 # Hi there, I'm Besim!  
-**Welcome,** [your visitor number is:](https://komarev.com/ghpvc/?username=BsmYksln&color=007BFF)
+**![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BsmYksln.visitor-badge&left_color=blue&right_color=blue&left_text=Welcome%20your%20visitor%20number%20is%20:)**
 
 I am a PhD student in Earthquake Engineering at IUSS Pavia (ROSE). My research focuses on **multi-objective optimisation of seismic retrofitting of existing buildings**.
 
